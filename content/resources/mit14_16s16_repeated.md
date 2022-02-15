@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-16-strategy-and-information-spring-2016/6245454b7dd0a020f706aa31b52e6430_MIT14_16S16_Repeated.pdf
+file: /media/courses/14-16-strategy-and-information-spring-2016/6245454b7dd0a020f706aa31b52e6430_MIT14_16S16_Repeated.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: 14.16 S16 Strategy and Information Repeated Games with Perfect Monitoring Lecture
   Slides

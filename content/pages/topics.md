@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Topics
 uid: 41f453d1-c4f1-6016-f68b-3c05ec63bbe3
 ---
