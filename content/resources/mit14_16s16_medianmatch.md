@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 3fbe3172-87fa-67b8-9a61-0ce3cd50dbe0
 resourcetype: Document
 title: MIT 14.16 S16 Strategy and Information-Median Stable Matchings Notes
 uid: 5ae71c3b-77fb-295f-53b6-65c61979efde

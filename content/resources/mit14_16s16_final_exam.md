@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2c323155-8070-9d74-74b4-a74d3c75114f
 resourcetype: Document
 title: MIT 14.16 S14 Final Exam
 uid: de32dfa4-7666-9983-536c-44c7a2f513fa

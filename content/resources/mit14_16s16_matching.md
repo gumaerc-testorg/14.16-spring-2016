@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 3fbe3172-87fa-67b8-9a61-0ce3cd50dbe0
 resourcetype: Document
 title: MIT 14.16 S16 Matching Theory Lecture Slides
 uid: 53dbe8d6-8197-8367-f9c0-4182aa3c9b97

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 3fbe3172-87fa-67b8-9a61-0ce3cd50dbe0
 resourcetype: Document
 title: MIT 14.16 S16 Networks Lecture Slides
 uid: 2673fcad-bd95-125e-520d-cbd4f2afba56
