@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains an example of a final exam used in the course. '
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -9,4 +10,4 @@ uid: 2c323155-8070-9d74-74b4-a74d3c75114f
 
 The exam posted below was used in a previous version of the course.
 
-[Example of the Final Exam (PDF)]({{< baseurl >}}/resources/mit14_16s16_final_exam)
+{{% resource_link de32dfa4-7666-9983-536c-44c7a2f513fa "Example of the Final Exam (PDF)" %}}
