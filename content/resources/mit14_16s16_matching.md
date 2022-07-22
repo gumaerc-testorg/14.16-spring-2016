@@ -6,6 +6,7 @@ file: /courses/14-16-strategy-and-information-spring-2016/53dbe8d681978367f9c041
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT 14.16 S16 Matching Theory Lecture Slides
 uid: 53dbe8d6-8197-8367-f9c0-4182aa3c9b97
 ---
 This resource contains the information regarding matching theory lecture slides.
-

@@ -6,6 +6,7 @@ file: /courses/14-16-strategy-and-information-spring-2016/3dd986ad07f77b3bb37748
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'MIT 14.16 S16 Strategy and Information Lecture Slides '
 uid: 3dd986ad-07f7-7b3b-b377-485644378d68
 ---
 This resource contains the information regarding strategy and information lecture slides .
-

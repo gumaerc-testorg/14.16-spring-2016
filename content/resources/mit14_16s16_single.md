@@ -6,6 +6,7 @@ file: /courses/14-16-strategy-and-information-spring-2016/bdbe3b6feffbd40a529dce
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT 14.16 S16 Single-Deviation Principle and Bargaining Lecture Slides
 uid: bdbe3b6f-effb-d40a-529d-ce1e1b73d81c
 ---
 This resource contains the information regarding single-deviation principle and bargaining lecture Slides.
-

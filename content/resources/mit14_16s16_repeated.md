@@ -5,6 +5,7 @@ file: /courses/14-16-strategy-and-information-spring-2016/6245454b7dd0a020f706aa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
