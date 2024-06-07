@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding Bayesian Games and auction
   lecture slides.
 file: /courses/14-16-strategy-and-information-spring-2016/88a1631b5ed6512f32a2ef239830322a_MIT14_16S16_Bayesian.pdf
+file_size: 239288
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
