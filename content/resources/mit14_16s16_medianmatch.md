@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding strategy and information-median
   stable matchings notes.
-file: /courses/14-16-strategy-and-information-spring-2016/5ae71c3b77fb295f53b665c61979efde_MIT14_16S16_medianmatch.pdf
+file: /ol-ocw-studio-app/courses/14-16-strategy-and-information-spring-2016/5ae71c3b77fb295f53b665c61979efde_MIT14_16S16_medianmatch.pdf
 file_size: 660216
 file_type: application/pdf
 learning_resource_types:
