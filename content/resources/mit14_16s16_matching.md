@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding matching theory lecture
   slides.
-file: /courses/14-16-strategy-and-information-spring-2016/53dbe8d681978367f9c04182aa3c9b97_MIT14_16S16_Matching.pdf
+file: /ol-ocw-studio-app/courses/14-16-strategy-and-information-spring-2016/53dbe8d681978367f9c04182aa3c9b97_MIT14_16S16_Matching.pdf
 file_size: 272309
 file_type: application/pdf
 learning_resource_types:

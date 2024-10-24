@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-16-strategy-and-information-spring-2016/6245454b7dd0a020f706aa31b52e6430_MIT14_16S16_Repeated.pdf
+file: /ol-ocw-studio-app/courses/14-16-strategy-and-information-spring-2016/6245454b7dd0a020f706aa31b52e6430_MIT14_16S16_Repeated.pdf
 file_size: 120884
 file_type: application/pdf
 learning_resource_types:
