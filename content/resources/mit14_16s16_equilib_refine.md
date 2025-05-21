@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding cooperative games lecture
   slides.
-file: /ol-ocw-studio-app/courses/14-16-strategy-and-information-spring-2016/5ccdc7992234b518028d5714a582c7c8_MIT14_16S16_equilib_refine.pdf
+file: /courses/14-16-strategy-and-information-spring-2016/5ccdc7992234b518028d5714a582c7c8_MIT14_16S16_equilib_refine.pdf
 file_size: 192621
 file_type: application/pdf
 learning_resource_types:
