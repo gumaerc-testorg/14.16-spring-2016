@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding extensive form games
   lecture slides.
-file: /ol-ocw-studio-app/courses/14-16-strategy-and-information-spring-2016/8aba65347a9edb17b1e718c3c221e42a_MIT14_16S16_Form_Games.pdf
+file: /courses/14-16-strategy-and-information-spring-2016/8aba65347a9edb17b1e718c3c221e42a_MIT14_16S16_Form_Games.pdf
 file_size: 230404
 file_type: application/pdf
 learning_resource_types:
