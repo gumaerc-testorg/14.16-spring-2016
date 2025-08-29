@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding strategy and information
   lecture slides .
-file: /courses/14-16-strategy-and-information-spring-2016/3dd986ad07f77b3bb377485644378d68_MIT14_16S16_strategy.pdf
+file: /ol-ocw-studio-app/courses/14-16-strategy-and-information-spring-2016/3dd986ad07f77b3bb377485644378d68_MIT14_16S16_strategy.pdf
 file_size: 276214
 file_type: application/pdf
 learning_resource_types:
