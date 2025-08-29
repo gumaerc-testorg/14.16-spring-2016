@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding single-deviation principle
   and bargaining lecture Slides.
-file: /courses/14-16-strategy-and-information-spring-2016/bdbe3b6feffbd40a529dce1e1b73d81c_MIT14_16S16_single.pdf
+file: /ol-ocw-studio-app/courses/14-16-strategy-and-information-spring-2016/bdbe3b6feffbd40a529dce1e1b73d81c_MIT14_16S16_single.pdf
 file_size: 158377
 file_type: application/pdf
 learning_resource_types:
